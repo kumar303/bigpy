@@ -5,6 +5,9 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
+authors = [
+    { name = "Harper Reed" }
+]
 dependencies = [
     "markdown2>=2.5.1",
     "python-slugify>=8.0.4",
