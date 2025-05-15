@@ -4,6 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "bigpy"
+license = "LicenseRef-WTFPL"
+license-files = ["LICENSE"]
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
