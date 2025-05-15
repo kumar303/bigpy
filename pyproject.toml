@@ -10,7 +10,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 authors = [
-    { name = "Harper Reed" }
+    { name = "Harper Reed", email = "harper@example.com" }
 ]
 dependencies = [
     "markdown2>=2.5.1",
