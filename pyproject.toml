@@ -1,6 +1,6 @@
 [project]
 name = "bigpy"
-license = "whatever"
+license = { file = "LICENSE" }
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
