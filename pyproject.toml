@@ -7,10 +7,10 @@ name = "bigpy"
 license = { file = "LICENSE" }
 version = "0.1.0"
 description = "Add your description here"
-readme = "README.md"
+readme = { file = "README.md", content-type = "text/markdown" }
 requires-python = ">=3.13"
 authors = [
-    { name = "Harper Reed", email = "harper@example.com" }
+    { name = "Harper Reed" }
 ]
 dependencies = [
     "markdown2>=2.5.1",
